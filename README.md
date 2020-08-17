@@ -2,6 +2,8 @@
 Assignment No: 1 | Dated: Aug. 15th, 2020
 Instructed By: Arun Kudiyal
 Instructions: Questions 1 to 4 contains 15 marks each, and questions 5 to 8 contains 10 marks each.
+
+
 Q.1: Design a Calculator class which contains four lambda methods:
 a. add(a, b)
 b. difference(a, b)
